@@ -2,7 +2,7 @@
 
 This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+The sample app described here is up at https://pet.onrender.com. Test it out with pet images!
 
 You can test your changes locally by installing Docker and using the following command:
 
