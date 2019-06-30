@@ -1,3 +1,4 @@
+#coding=utf-8
 import aiohttp
 import asyncio
 import uvicorn
@@ -34,7 +35,7 @@ classes = ['Abyssinian',
  'english_setter',
  'german_shorthaired',
  'great_pyrenees',
- 'havanese',
+ 'havanese哈瓦那犬',
  'japanese_chin',
  'keeshond',
  'leonberger',
